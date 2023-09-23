@@ -1,2 +1,2 @@
-# jquery
-# jquery color - simple 
+# angular
+# 1st version
